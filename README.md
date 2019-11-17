@@ -8,10 +8,10 @@ The overall aim this week is to define dominance areas [0] for 8 shopping center
 [0]: Here, we define the dominance area of a service as the geographical area from where the given service (shopping center) is the closest one to reach in terms of travel time.
 
 - **Exercise 3 is due by Wednesday the 27th of November at 4pm** (day before the next practical session).
-- Scores on this exercise are out of **20 points**.
+- You can gain **20 + 5 points** from this exercise.
 
 
 # Sections
 - [Problem 1: Join accessibility datasets into a grid and visualize them by using a classifier (10 points)](Exercise-4-problem-1.ipynb)
 - [Problem 2: Calculate and visualize the dominance areas of shopping centers (10 points)](Exercise-4-problem-2.ipynb)
-- [Problem 3: How many people live under the dominance area of each shopping center? (OPTIONAL)](Exercise-4-problem-3.ipynb)
+- [Problem 3: How many people live under the dominance area of each shopping center? (additional 5 points available)](Exercise-4-problem-3.ipynb)
